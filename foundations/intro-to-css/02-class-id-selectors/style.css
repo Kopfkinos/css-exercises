@@ -1,0 +1,19 @@
+.diva-background {
+  background-color: pink;
+  font-family: "DejaVu Sans";
+}
+
+.bigger {
+  font-size: 2em;
+}
+
+#blue-text {
+  color: blue;
+  font-size: 3em;
+}
+
+#green-back {
+  background-color: rgb(159, 253, 159);
+  font-weight: bold;
+  font-size: 2em;
+}
